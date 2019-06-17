@@ -1,2 +1,10 @@
-# dokumentacja-kubernetes
-Dokumentacja do Kubernetesa
+# Opis
+
+Dokumentacja do Kubernetesa.
+
+# Kolejność instalacji
+
+* Kubernetes (np. kubespray, minikube)
+* MetalLB (opcjonalnie)
+* Ingress (opcjonalnie)
+
